@@ -1,0 +1,13 @@
+# Changes here will be overwritten by Copier
+_commit: f72f50f
+_src_path: .
+copyright_year: '2026'
+documentation: false
+email: cuinixam@gmail.com
+full_name: cuinixam
+github_username: cuinixam
+package_name: object_deps_report
+project_name: object-deps-report
+project_short_description: An spl-core extension that generates the object-file dependency
+    graph report using clanguru
+project_slug: object-deps-report
