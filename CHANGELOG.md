@@ -2,6 +2,10 @@
 
 <!-- version list -->
 
+## v0.0.0 (2026-07-03)
+
+- Initial Release
+
 ## v0.1.0
 
 - Initial release: `objects-deps` CMake target that runs `clanguru analyze` to
