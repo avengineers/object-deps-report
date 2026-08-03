@@ -1,7 +1,7 @@
 cmake_language(DEFER DIRECTORY ${CMAKE_SOURCE_DIR} CALL _spl_object_deps_hook())
 
 function(_spl_object_deps_hook)
-    set(OBJECT_DEPS_RUNNER object_deps_report.exe)
+    set(OBJECT_DEPS_RUNNER object_deps_report)
     if(BUILD_TYPE)
         set(build_type_arg "--build-type")
     endif()
